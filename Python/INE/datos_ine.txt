@@ -1,0 +1,10 @@
+nombre: Carlos
+apellido: Chan Lugo
+sexo: H
+domicilio: supermanzana 101
+clave: CHC2900
+curp: CACL13
+registro: 2020
+fecha_nacimiento: 13/03/2002
+seccion: 0056
+vigencia: 2021-2031
